@@ -1,0 +1,36 @@
+If normal installation doesen't work. Follow below Steps.
+**(YOU NEED TO START 'Xampp' BEFORE RUNNING THE SOFTWARE EACHTIME)**
+
+
+1. Please install java before installing this software.
+Link - https://www.java.com/en/download/
+
+2. Please install Xampp, run Xampp, go to localhost choose MySql and import the 'pcview' sql file inside the 'DB SQL' folder into phpMyadmin MySQL Database.
+Link Xampp - https://www.apachefriends.org/index.html
+
+
+Steps:
+1. After the above steps, Run the PC View POS Setup.
+2. Give installation path to the 'dist' folder inside the project folder 'PCView_POS'.
+3. Complete the installation.
+4. Use the shortcut 'PC View POS' in the desktop to run the software.
+4.1. If the shortcut was not created in the Desktop, please use the exe file inside the installed folder to run the software.
+
+
+**Use one of the below login credentials or create a new account to login. 
+
+
+Username - admin
+Password - admin
+
+
+Username - user1
+Password - user1
+
+
+Username - pcman
+Password - pcman
+
+
+Contact Us if Failed.
+Nimesh - 0778275983 / nimeshfernandz6@gmail.com
